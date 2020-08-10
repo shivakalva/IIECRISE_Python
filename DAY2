@@ -1,0 +1,5 @@
+Live interpreter, Any python related actions can be performed here.
+Saving the file with " " removes the unwanted extension
+Dynamic Datatype detection. Python can be assigned any type of the variable and still be detected.
+y.__getitems__(3) which internally gets invoked when we call y[3]
+The list has the limitation and it won't be able to retrieve the data column-wise, we can use NumPy here.
